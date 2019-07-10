@@ -1,0 +1,20 @@
+body{
+    background-color: lightsteelblue;
+}
+.resposta{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.errada{
+    background-color: rosybrown;
+    border: 2px dotted lightcoral;
+    outline: 2px dashed plum;
+    color: red;
+}
+.correta{
+    background-color: dodgerblue;
+    border: 2px dotted lightcyan;
+    outline: 2px dashed deepskyblue;
+    color: blue; 
+}
