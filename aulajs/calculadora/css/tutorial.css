@@ -1,0 +1,16 @@
+body{
+    background-color: hotpink;
+    color:grey;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#divcentral{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 400px;
+}
